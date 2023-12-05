@@ -1,0 +1,14 @@
+C:\Users\APT02-63\Documents\Fibonachi\bin\Debug\net7.0\Fibonachi.exe
+C:\Users\APT02-63\Documents\Fibonachi\bin\Debug\net7.0\Fibonachi.deps.json
+C:\Users\APT02-63\Documents\Fibonachi\bin\Debug\net7.0\Fibonachi.runtimeconfig.json
+C:\Users\APT02-63\Documents\Fibonachi\bin\Debug\net7.0\Fibonachi.dll
+C:\Users\APT02-63\Documents\Fibonachi\bin\Debug\net7.0\Fibonachi.pdb
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.AssemblyInfo.cs
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.dll
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\refint\Fibonachi.dll
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.pdb
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\Fibonachi.genruntimeconfig.cache
+C:\Users\APT02-63\Documents\Fibonachi\obj\Debug\net7.0\ref\Fibonachi.dll
